@@ -11,7 +11,7 @@ function OrderDetails() {
             id=""
             className="px-4 py-2 focus:border-green-500 outline-node bg-[#475569] border border-green-700 rounded-md text-[#d0d2d6]"
           >
-            <option value="">Pending</option>
+            <option value="">Pending-Test</option>
             <option value="">Processing</option>
             <option value="">Warehouse</option>
             <option value="">Placed</option>
